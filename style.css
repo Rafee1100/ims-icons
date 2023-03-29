@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-app-indicator-regular:before {
+  content: "\e95d";
+}
 .icon-activity-regular:before {
   content: "\e92b";
 }
