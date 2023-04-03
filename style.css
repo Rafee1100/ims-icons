@@ -25,6 +25,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-success-regular:before {
+  content: "\e960";
+}
+.icon-cancel-regular:before {
+  content: "\e95e";
+}
+.icon-pending-regular:before {
+  content: "\e95f";
+}
+.icon-warning-regular:before {
+  content: "\e961";
+}
 .icon-app-indicator-regular:before {
   content: "\e95d";
 }
