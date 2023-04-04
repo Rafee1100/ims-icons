@@ -25,6 +25,36 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-action-horizontal-fill:before {
+  content: "\e962";
+}
+.icon-close-regular:before {
+  content: "\e964";
+}
+.icon-create-regular:before {
+  content: "\e965";
+}
+.icon-details-regular:before {
+  content: "\e966";
+}
+.icon-filter-regular:before {
+  content: "\e967";
+}
+.icon-heart-regular:before {
+  content: "\e968";
+}
+.icon-like-regular:before {
+  content: "\e969";
+}
+.icon-overview-regular:before {
+  content: "\e96a";
+}
+.icon-share-fill:before {
+  content: "\e96b";
+}
+.icon-timeline-regular:before {
+  content: "\e96c";
+}
 .icon-success-regular:before {
   content: "\e960";
 }
@@ -58,7 +88,7 @@
 .icon-bolt-regular:before {
   content: "\e930";
 }
-.icon-cancel-regular:before {
+.icon-cancel-regular1:before {
   content: "\e931";
 }
 .icon-code-regular:before {
